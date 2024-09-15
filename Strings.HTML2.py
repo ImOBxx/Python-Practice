@@ -1,0 +1,10 @@
+s = "<></>"
+x = list(s)
+print(x)
+x.insert(1, "b")
+print(x)
+x.insert(3, "Python Tutorial")
+print(x)
+x.insert(6, "b")
+l = ''.join(x)
+print(l)

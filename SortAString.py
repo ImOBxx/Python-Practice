@@ -1,0 +1,5 @@
+s = input ("Enter String: ")
+x = list(s)
+x.sort()
+f = ''.join(x)
+print(f)

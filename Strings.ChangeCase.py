@@ -1,0 +1,5 @@
+print()
+s = input ("Enter String: ")
+x = s.swapcase()
+print(x)
+print()

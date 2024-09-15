@@ -1,0 +1,5 @@
+print()
+n = int (input ("Enter Number: "))
+print()
+print("Formatted Number with comma separator: "+"{:,}".format(n))
+print()

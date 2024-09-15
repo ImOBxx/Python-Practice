@@ -1,0 +1,6 @@
+print()
+n = int (input ("Enter Number: "))
+s = str (input ("Enter Stars: "))
+print()
+print(f"{n}{s}")
+print()

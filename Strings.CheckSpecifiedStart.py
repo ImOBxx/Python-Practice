@@ -1,0 +1,6 @@
+print()
+s = input ("Enter String: ")
+n = input ("Enter Specified Character: ")
+print()
+print(s.startswith(n))
+print()

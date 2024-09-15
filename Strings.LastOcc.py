@@ -1,0 +1,11 @@
+print()
+s = input ("Enter String: ")
+x = list(s)
+f = ', '.join(x)
+d = str(f)
+q = int (input("Enter The Index To Split: "))
+print()
+g = d.rsplit(', ', q)
+print(g)
+print()
+

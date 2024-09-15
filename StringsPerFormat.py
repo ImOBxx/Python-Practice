@@ -1,0 +1,5 @@
+print()
+n = float (input ("Enter Number: "))
+print()
+print(f"Number With Percentage: {n}%")
+print()

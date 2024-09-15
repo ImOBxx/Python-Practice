@@ -1,0 +1,6 @@
+print()
+n = float (input ("Enter Number: "))
+s = str (input ("Enter Number Of Zeroes: "))
+print()
+print(f"{s}{n}")
+print()

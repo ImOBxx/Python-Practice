@@ -1,0 +1,7 @@
+print()
+s = str (input ("Enter String: "))
+n = str (input ("Enter Character To Strip: "))
+print()
+f = "".join(c for c in s if c not in n)
+print(f)
+print()
